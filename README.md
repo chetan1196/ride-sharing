@@ -15,5 +15,3 @@ This is a simple ride-sharing application written in Go. It allows users to offe
 ## Build and Run
 3. Build and run the application using the following command:
    *go build -o ride-sharing && ./ride-sharing*
-
-# ride-sharing
