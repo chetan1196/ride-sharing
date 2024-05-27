@@ -32,4 +32,4 @@ Ride statistics:
 User Amar: Offered:1: Taken: 0
 User Chetan: Offered:1: Taken: 0
 User Bhuwan: Offered:0: Taken: 2
-User Vijay: Offered:0: Taken: 1```
+User Vijay: Offered:0: Taken: 1
